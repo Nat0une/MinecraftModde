@@ -1,0 +1,8 @@
+version:3120
+autoJump:false
+fullscreen:true
+darkMojangStudiosBackground:true
+gamma:1.0
+resourcePacks:["vanilla","mod_resources","packmenu","file/Unity-1.19.X-Base-2.4.1.zip","file/Unity-1.19.X-Dark-0.9.1.zip"]
+lang:fr_fr
+soundCategory_music:0.0
