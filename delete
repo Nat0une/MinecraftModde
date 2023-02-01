@@ -22,4 +22,7 @@ mods\swashbucklers2.4+1.19.jar
 mods\tameablebeasts-1.19.2-3.0.jar
 mods\worms-1.0.2.jar
 mods\iris-mc1.19.2-1.5.0.jar
+packmenu\resources\assets\packmenu\buttons\reloadbutton.json
+packmenu\resources\assets\packmenu\buttons\aklizaffiliate.json
+packmenu\resources\assets\packmenu\buttons\custom.json
 version
