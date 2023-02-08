@@ -1,0 +1,83 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = true
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=450948%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=346948%
+  orientation = bottom-left
+  x = 89
+  action = movebutton
+  y = -28
+}
+
+customization {
+  identifier = %id=580972%
+  orientation = bottom-right
+  x = -146
+  action = movebutton
+  y = -28
+}
+
+customization {
+  identifier = %id=580972%
+  width = 65
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=346972%
+  orientation = bottom-centered
+  x = -46
+  action = movebutton
+  y = -28
+}
+
+customization {
+  identifier = %id=346972%
+  width = 65
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=426972%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=504972%
+  orientation = bottom-centered
+  x = 24
+  action = movebutton
+  y = -28
+}
+
+customization {
+  identifier = %id=504972%
+  width = 65
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=554948%
+  action = hidebutton
+}
+
